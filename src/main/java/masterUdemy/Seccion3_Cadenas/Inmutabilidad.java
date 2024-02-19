@@ -9,6 +9,5 @@ public class Inmutabilidad {
         System.out.println(curso +" " +profesor);
         String result = curso.concat(profesor); // aqui el objeto es inmutable porque se crea otro objeto con el resultado de la operacion
         System.out.println(result);
-
     }
 }
