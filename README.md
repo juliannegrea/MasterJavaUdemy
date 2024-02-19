@@ -27,4 +27,4 @@
                                                                           ⠘⣿⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠤⠴⠶⠒⠋⠉⠉⠀⠀⡼⠁⠀⡇⠀⠈⣇⣀⣠⠿⠾⠟⠚⠋⠉⠁⠈⠙⢳⣝⣯⠀⠀
 
 
-#SUBO COSAS DEL PROYECTO
+# Subo cosas del Curso
